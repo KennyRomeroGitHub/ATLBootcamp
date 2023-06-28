@@ -5,3 +5,10 @@
   "answer": 0,
   "explanation": "La michelada, originaria de México, nacida de la creatividad y el deseo de refrescar, se convirtió en una popular bebida que cautivó a los amantes de la cerveza con su combinación única de sabores y su espíritu festivo."
 }
+{
+"category": :"PC",
+"question": "Que componente hace que todos se conecten y funcionen entre si?",
+"options": ["CPU, Ram, Motherborad, Video Card, Power Supply"],
+"answer": 2;
+"explanation": "The motherboard has the main printed circuit board within a computer, which means it's the primary piece of circuitry that all of the other pieces plug into to create a cohesive whole."
+}
