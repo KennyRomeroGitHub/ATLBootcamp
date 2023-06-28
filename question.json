@@ -6,7 +6,7 @@
   "explanation": "La michelada, originaria de México, nacida de la creatividad y el deseo de refrescar, se convirtió en una popular bebida que cautivó a los amantes de la cerveza con su combinación única de sabores y su espíritu festivo."
 }
 {
-  "category": "Pc",
+  "category": "PC",
   "question": "¿Que componente hace que todos se conecten y funcionen entre si?",
   "options": ["CPU, Ram, Motherborad, Video Card, Power Supply"],
   "answer": 2,
@@ -15,7 +15,7 @@
 {
   "category": "Musica",
   "question": "¿Quien es el mejor cantante de pop de todos los tiempos?",
-  "options": ["Michael jackson, Queen, Metallica, Billy Idol?",
+  "options": ["Michael jackson, Queen, Metallica, Billy Idol?"],
   "answer": 0,
   "explanation": "Michael Joseph Jackson was an American singer, songwriter dancer and one of the most influential and iconic pop music entertainers of all time."
 }
